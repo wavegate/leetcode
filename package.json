@@ -2,9 +2,9 @@
   "name": "leetcode",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon test"
+    "start": "nodemon --inspect app"
   },
   "keywords": [],
   "author": "",
